@@ -1,0 +1,11 @@
+/Users/danielmora/Documents/BOS_Kudos/contract/target/debug/deps/signature-231ca74ab6b72ca0.rmeta: /Users/danielmora/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.6.4/src/lib.rs /Users/danielmora/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.6.4/src/error.rs /Users/danielmora/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.6.4/src/keypair.rs /Users/danielmora/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.6.4/src/signature.rs /Users/danielmora/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.6.4/src/signer.rs /Users/danielmora/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.6.4/src/verifier.rs /Users/danielmora/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.6.4/src/../README.md
+
+/Users/danielmora/Documents/BOS_Kudos/contract/target/debug/deps/signature-231ca74ab6b72ca0.d: /Users/danielmora/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.6.4/src/lib.rs /Users/danielmora/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.6.4/src/error.rs /Users/danielmora/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.6.4/src/keypair.rs /Users/danielmora/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.6.4/src/signature.rs /Users/danielmora/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.6.4/src/signer.rs /Users/danielmora/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.6.4/src/verifier.rs /Users/danielmora/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.6.4/src/../README.md
+
+/Users/danielmora/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.6.4/src/lib.rs:
+/Users/danielmora/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.6.4/src/error.rs:
+/Users/danielmora/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.6.4/src/keypair.rs:
+/Users/danielmora/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.6.4/src/signature.rs:
+/Users/danielmora/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.6.4/src/signer.rs:
+/Users/danielmora/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.6.4/src/verifier.rs:
+/Users/danielmora/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.6.4/src/../README.md:

@@ -1,0 +1,12 @@
+/Users/danielmora/Documents/BOS_Kudos/contract/target/debug/deps/semver-df6808b7e5e528b7.rmeta: /Users/danielmora/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.17/src/lib.rs /Users/danielmora/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.17/src/backport.rs /Users/danielmora/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.17/src/display.rs /Users/danielmora/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.17/src/error.rs /Users/danielmora/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.17/src/eval.rs /Users/danielmora/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.17/src/identifier.rs /Users/danielmora/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.17/src/impls.rs /Users/danielmora/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.17/src/parse.rs
+
+/Users/danielmora/Documents/BOS_Kudos/contract/target/debug/deps/semver-df6808b7e5e528b7.d: /Users/danielmora/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.17/src/lib.rs /Users/danielmora/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.17/src/backport.rs /Users/danielmora/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.17/src/display.rs /Users/danielmora/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.17/src/error.rs /Users/danielmora/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.17/src/eval.rs /Users/danielmora/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.17/src/identifier.rs /Users/danielmora/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.17/src/impls.rs /Users/danielmora/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.17/src/parse.rs
+
+/Users/danielmora/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.17/src/lib.rs:
+/Users/danielmora/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.17/src/backport.rs:
+/Users/danielmora/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.17/src/display.rs:
+/Users/danielmora/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.17/src/error.rs:
+/Users/danielmora/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.17/src/eval.rs:
+/Users/danielmora/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.17/src/identifier.rs:
+/Users/danielmora/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.17/src/impls.rs:
+/Users/danielmora/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.17/src/parse.rs:

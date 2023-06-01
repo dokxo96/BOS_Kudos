@@ -1,0 +1,12 @@
+/Users/danielmora/Documents/BOS_Kudos/integration-tests/target/debug/deps/tempfile-cac46f258fc42241.rmeta: /Users/danielmora/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.5.0/src/lib.rs /Users/danielmora/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.5.0/src/dir.rs /Users/danielmora/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.5.0/src/error.rs /Users/danielmora/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.5.0/src/file/mod.rs /Users/danielmora/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.5.0/src/file/imp/mod.rs /Users/danielmora/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.5.0/src/spooled.rs /Users/danielmora/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.5.0/src/util.rs /Users/danielmora/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.5.0/src/file/imp/unix.rs
+
+/Users/danielmora/Documents/BOS_Kudos/integration-tests/target/debug/deps/tempfile-cac46f258fc42241.d: /Users/danielmora/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.5.0/src/lib.rs /Users/danielmora/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.5.0/src/dir.rs /Users/danielmora/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.5.0/src/error.rs /Users/danielmora/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.5.0/src/file/mod.rs /Users/danielmora/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.5.0/src/file/imp/mod.rs /Users/danielmora/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.5.0/src/spooled.rs /Users/danielmora/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.5.0/src/util.rs /Users/danielmora/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.5.0/src/file/imp/unix.rs
+
+/Users/danielmora/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.5.0/src/lib.rs:
+/Users/danielmora/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.5.0/src/dir.rs:
+/Users/danielmora/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.5.0/src/error.rs:
+/Users/danielmora/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.5.0/src/file/mod.rs:
+/Users/danielmora/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.5.0/src/file/imp/mod.rs:
+/Users/danielmora/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.5.0/src/spooled.rs:
+/Users/danielmora/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.5.0/src/util.rs:
+/Users/danielmora/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.5.0/src/file/imp/unix.rs:
